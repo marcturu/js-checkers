@@ -61,7 +61,11 @@ The test runner will watch for changes in `src/pec4/pec4.js` and re-run automati
 npm run serve
 ```
 
-Then select the `web` folder inside `src`.
+Then select the `web` folder inside `src`.   
+
+Another option is to open the ```.html``` file directly in a browser or use **Live Server**. 
+
+The game will typically be avialable at `http://localhost:8080/src/web/`, `http://127.0.0.1:8080/src/web/` or `http://127.0.0.1:5500/src/web/`.
 
 ### 5. Check the statements
 Take a look at the statements in `README_ca.md` or `README_es.md` to fully understand the game implemented in `src/pec4/pec4.js`.
