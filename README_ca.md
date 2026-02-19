@@ -62,7 +62,7 @@ Els jugadors mouen les seves fitxes en diagonal, podent capturar fitxes contràr
 
 Un exemple de com es veurà l'aplicació web una vegada implementats els exercicis de la PAC és el següent:
 
-![Game Screenshot](./damas.gif)
+![Gameplay](./screenshots/Gameplay.gif)
 
 A la carpeta `src/web` trobaràs els fitxers necessaris per al front-end. El fitxer `index.html` conté l'estructura bàsica de l'aplicació, mentre que el fitxer `style.css` conté els estils CSS per a la interfície d'usuari. El fitxer `game.js` és el punt d'entrada de l'aplicació i s'encarregarà d'inicialitzar el joc.
 
