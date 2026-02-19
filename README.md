@@ -91,7 +91,7 @@ src/
 ![Gameplay](screenshots/Gameplay.gif)
 
 ### Tests passed:
-![TestsPassed](screenshots/Tests_passed.jpg)
+![TestsPassed](screenshots/Tests_passed.png)
 
 ---
 
