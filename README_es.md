@@ -53,10 +53,6 @@ El juego se compone de un tablero configurable (mínimo 4x4, máximo 16x16), don
 
 Los jugadores mueven sus fichas en diagonal, pudiendo capturar fichas contrarias saltando sobre ellas. Cuando una ficha llega al extremo opuesto del tablero, se promociona a dama, adquiriendo la capacidad de moverse en cualquier dirección diagonal. El juego termina cuando un jugador se queda sin fichas o no puede realizar ningún movimiento válido.
 
-Un ejemplo de cómo se verá la aplicación web una vez implementados los ejercicios de la PEC es el siguiente:
-
-![Gameplay](./screenshots/Gameplay.gif)
-
 En la carpeta `src/web` encontrarás los ficheros necesarios para el front-end. El fichero `index.html` contiene la estructura básica de la aplicación, mientras que el fichero `style.css` contiene los estilos CSS para la interfaz de usuario. El fichero `game.js` es el punto de entrada de la aplicación y se encargará de inicializar el juego.
 
 ## Ejercicios prácticos (10 pts)
