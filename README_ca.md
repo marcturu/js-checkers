@@ -53,10 +53,6 @@ El joc es compon d'un tauler configurable (mínim 4x4, màxim 16x16), on es col�
 
 Els jugadors mouen les seves fitxes en diagonal, podent capturar fitxes contràries saltant sobre elles. Quan una fitxa arriba a l'extrem oposat del tauler, es promociona a dama, adquirint la capacitat de moure's en qualsevol direcció diagonal. El joc acaba quan un jugador es queda sense fitxes o no pot realitzar cap moviment vàlid.
 
-Un exemple de com es veurà l'aplicació web una vegada implementats els exercicis de la PAC és el següent:
-
-![Gameplay](./screenshots/Gameplay.gif)
-
 A la carpeta `src/web` trobaràs els fitxers necessaris per al front-end. El fitxer `index.html` conté l'estructura bàsica de l'aplicació, mentre que el fitxer `style.css` conté els estils CSS per a la interfície d'usuari. El fitxer `game.js` és el punt d'entrada de l'aplicació i s'encarregarà d'inicialitzar el joc.
 
 ## Exercicis pràctics (10 punts)
