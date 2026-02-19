@@ -62,7 +62,7 @@ Los jugadores mueven sus fichas en diagonal, pudiendo capturar fichas contrarias
 
 Un ejemplo de cómo se verá la aplicación web una vez implementados los ejercicios de la PEC es el siguiente:
 
-![Game Screenshot](./damas.gif)
+![Gameplay](./screenshots/Gameplay.gif)
 
 En la carpeta `src/web` encontrarás los ficheros necesarios para el front-end. El fichero `index.html` contiene la estructura básica de la aplicación, mientras que el fichero `style.css` contiene los estilos CSS para la interfaz de usuario. El fichero `game.js` es el punto de entrada de la aplicación y se encargará de inicializar el juego.
 
