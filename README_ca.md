@@ -4,9 +4,8 @@ En aquesta PAC es practiquen els diversos aspectes que ofereix l'API DOM de Java
 
 ## Competències
 
-En aquesta PAC es desenvolupen les següents competències del Màster:
+En aquesta PAC es desenvolupen les següents competències:
 
-* [CB10] Que els estudiants adquireixin les habilitats d'aprenentatge que els permetin continuar estudiant d'una manera que haurà de ser en gran mesura autodirigida o autònoma.
 * [CG2] Resoldre problemes, identificant, analitzant i definint els seus elements significatius.
 * [CE3] Utilitzar de manera adequada els llenguatges de programació i les millors eines de desenvolupament per a l'anàlisi, el disseny i la implementació de llocs i aplicacions web en funció de les necessitats del projecte.
 * [CE5] Aplicar de la manera més adequada els patrons d'arquitectura de programari més convenients per a cada problema.
@@ -20,13 +19,7 @@ Els objectius concrets d'aquesta PAC són:
 * Saber aplicar les diferents funcions de manipulació del DOM de JavaScript.
 * Explorar i conèixer maneres diferents de resoldre problemes sobre manipulació del DOM en JavaScript.
 
-## Lliurament de la PAC
-
-Un cop hagis realitzat les activitats pràctiques proposades en aquest enunciat, el lliurament es farà enviant els teus canvis a l'apartat de l'aula virtual de la UOC.
-
 ## Puntuació
-
-El fet de treballar amb tests per verificar la funcionalitat del codi us permetrà tenir una idea de la vostra pròpia nota abans del lliurament.
 
 La puntuació dels exercicis pràctics es basa en dos criteris: **Funcionalitat** i **Implementació**. S'espera que els exercicis funcionin correctament (passin els tests) i que la implementació (el codi) tingui una qualitat adequada.
 
@@ -42,12 +35,12 @@ Alguns detalls a tenir en compte:
 ## Requisits mínims
 
 - Tenir instal·lat Visual Studio Code.
-- Coneixements bàsics de Git i GitHub (Repte 1)
-- Estudi de la introducció i repàs a JavaScript (Repte 2).
-- Estudi dels conceptes de JavaScript (Repte 2).
-- Estudi de la introducció a l'asincronía en JavaScript (Repte 3).
-- Estudi dels conceptes d'asincronía de JavaScript (Repte 3).
-- Estudi dels materials i exercici sobre manipulació del DOM (Repte 4).
+- Coneixements bàsics de Git i GitHub.
+- Estudi de la introducció i repàs a JavaScript.
+- Estudi dels conceptes de JavaScript.
+- Estudi de la introducció a l'asincronía en JavaScript.
+- Estudi dels conceptes d'asincronía de JavaScript.
+- Estudi dels materials i exercici sobre manipulació del DOM.
 
 ### Cas pràctic
 
@@ -81,7 +74,7 @@ Per córrer l'aplicació hauràs d'executar la comanda:
 ```bash
 npm run serve
 ```
-i seleccionar la carpeta `web` dins de `src`. Quan el joc sigui funcional s'hi hauria de veure el tauler i la interfície d'usuari; d'una manera similar a la imatge que es mostra anteriorment.
+i seleccionar la carpeta `web` dins de `src`.
 
 Per executar els tests, recorda que només has d'executar la següent comanda:
 ```bash
