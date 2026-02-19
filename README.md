@@ -1,4 +1,4 @@
-# 💻 JS Checkers — Classic 1v1 board game in JavaScript
+# ♟️ JS Checkers — Classic 1v1 board game in JavaScript
 
 <sub>🗓️ Developed in January 2026</sub>
 
