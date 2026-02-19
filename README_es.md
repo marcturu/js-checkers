@@ -4,9 +4,8 @@ En esta PEC se practican los diversos aspectos que ofrece el API DOM de JavaScri
 
 ## Competencias
 
-En esta PEC se desarrollan las siguientes competencias del Máster:
+En esta PEC se desarrollan las siguientes competencias:
 
-* [CB10] Que los estudiantes posean las habilidades de aprendizaje que les permitan continuar estudiando de una manera que tendrá que ser en gran medida autodirigida o autónoma.
 * [CG2] Resolver problemas, identificando, analizando y definiendo sus elementos significativos.
 * [CE3] Utilizar de manera adecuada los lenguajes de programación y las mejores herramientas de desarrollo para el análisis, el diseño y la implementación de lugares y aplicaciones web en función de las necesidades del proyecto.
 * [CE5] Aplicar de la manera más adecuada los patrones de arquitectura de software más conveniente para cada problema.
@@ -20,13 +19,7 @@ Los objetivos concretos de esta PEC son:
 * Saber aplicar las diferentes funciones de manipulación del DOM de JavaScript.
 * Explorar y conocer maneras diferentes de resolver problemas sobre manipulación del DOM en JavaScript.
 
-## Entrega de la PEC
-
-Una vez hayas realizado las actividades prácticas propuestas en este enunciado, la entrega se realizará enviando tus cambios al apartado del aula virtual de la UOC.
-
 ## Puntuación
-
-El hecho de trabajar con tests para verificar la funcionalidad del código os permitirá tener una idea de vuestra propia nota antes de la entrega.
 
 La puntuación de los ejercicios prácticos se basa en dos criterios: **Funcionalidad** e **Implementación**. Se espera que los ejercicios funcionen correctamente (pasen los tests) y que la implementación (el código) tenga una calidad adecuada.
 
@@ -42,12 +35,12 @@ Algunos detalles a tener en cuenta:
 ## Requisitos mínimos
 
 - Tener instalado Visual Studio Code.
-- Conocimientos básicos de Git y GitHub (Reto 1)
-- Estudio de la introducción y repaso a JavaScript (Reto 2).
-- Estudio de los conceptos de JavaScript (Reto 2).
-- Estudio de la introducción a la asincronía en JavaScript (Reto 3).
-- Estudio de los conceptos de asincronía de JavaScript (Reto 3).
-- Estudio de los materiales y ejercicio sobre manipulación del DOM (Reto 4).
+- Conocimientos básicos de Git y GitHub.
+- Estudio de la introducción y repaso a JavaScript.
+- Estudio de los conceptos de JavaScript.
+- Estudio de la introducción a la asincronía en JavaScript.
+- Estudio de los conceptos de asincronía de JavaScript.
+- Estudio de los materiales y ejercicio sobre manipulación del DOM.
 
 ### Caso práctico
 
@@ -81,7 +74,7 @@ Para correr la aplicación deberás ejecutar el comando:
 ```bash
 npm run serve
 ```
-y seleccionar la carpeta `web` dentro de `src`. Cuando el juego sea funcional debería de verse ahí el tablero y la interfaz de usuario; de una manera similar a la imagen que se muestra anteriormente.
+y seleccionar la carpeta `web` dentro de `src`.
 
 Para ejecutar los tests, recuerda que solo tienes que ejecutar el siguiente comando:
 ```bash
