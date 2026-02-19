@@ -2,7 +2,7 @@
 
 <sub>🗓️ Developed in January 2026</sub>
 
-This project contains a set of **JavaScript programming exercises** designed to practise and evaluate DOM API manipulation: node searching, element iteration and manipulation, and event handling in response to user interaction.  
+This project contains the implementation of the **Checkers 1v1 game in JavaScript** designed to practise and evaluate DOM API manipulation: node searching, element iteration and manipulation, and event handling in response to user interaction.  
 With the exercises included, the following competences are developed:
 - Autonomous and self-directed learning.
 - Problem-solving by identifying, analysing, and defining significant elements.
